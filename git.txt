@@ -1,0 +1,8 @@
+1. git init
+2. git status 
+3. git add -A
+4. git commit -a -m " message "
+5. git branch
+6. git checkout <branchname>
+7. git remote add origin < path >
+8. git push -u origin < branch name > 
